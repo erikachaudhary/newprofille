@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+          <!-- Google result text-->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ME88LD4GDV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-ME88LD4GDV');
+        </script>
+        <!-- Google result description-->
+        <meta name="description" content="I build web applications focused more on front end web app development. Delivering beautifully crafted web services, providing SEO capability and expert writing services.">
+        <!-- og Is Open Graph tagging used by Facebook and Twitter has a siilar one.-->
+        <!--  Essential META Tags -->
+        <meta property="og:title" content="Erika Chaudhary">
+        <meta property="og:image" content="https://elbornlab.com/appdev.jpg">
+        <meta property="og:description" content="We build digital products for brands and startups. Delivering beautifully crafted web and mobile applications, providing SEO capability and expert cyber security services.">
+        <meta property="og:url" content="https://elbornlab.com">
+        <meta name="twitter:card" content="summary_large_image">
+        <!--  Non-Essential, But Recommended -->
+        <meta property="og:site_name" content="El Born Lab">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet">
+    </head>
+<body>
+    <body style="background-color: white;">
+
+    <div class="row">
+    <div class="col-sm-6">
+      <div class="card border-white">
+        <div class="card-body">
+        <img src="day28-selfi-girl.png" alt="Avatar" style="width:90%">
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card border-white align-bottom">
+        <div class="card-body align-bottom">
+          <h5 class="card-title"> Hey, Thank you for stepping by!</h5>
+          <p class="card-text" "lh-1">Who is Erika Chaudhary? 
+
+            I grew up in a small town in Kupiskis, Lithuania. 
+            I went to a boarding art school. I love arts. I have always been a creative at heart. 
+            I have studied English Literature at a University of London and absolutely loved it. 
+            I love reading and writing. I was very sad when my degree ended.</p>
+            
+            <p class="lh-sm"> My career. 
+            
+            I have worked in Marketing for many years. I have worked for large organisations such as Samsung
+            and I have worked for small organisations and agencies such as We Are Xpert Ltd and Mytabsapp. 
+            I got myself a MSc Marketing diploma from a University of London because I thought it would help my marketing career.</p>
+            
+            <p class="lh-base"> I later discovered that my true artistic side comes out creating websites. Yes, creating websites is super creative.
+            It is like creating a painting. I start with just an idea then slowly develop it into something beautiful (one hopes)! 
+            I am now working as a web developer and I absolutely love it. If you would like a website 
+            let me know. We can have chat. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+</body>
+</head>
